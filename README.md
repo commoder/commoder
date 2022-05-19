@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @commoder
 - 👀 I’m interested in: developing open source software
-- 🌱 I’m currently learning: python, sql and web development
+- 🌱 I’m currently learning: javascript, python, sql and web development
 - 💞️ I’m looking to collaborate on: whatever
 - 📫 How to reach me: commoder9@gmail.com
 
